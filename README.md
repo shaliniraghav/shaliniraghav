@@ -16,7 +16,7 @@ Shalini</a></h1>
 </a>
 
 - 🔭 I’m currently Working on Android Development Projects
-- 🌱 I’m currently learning JS
+- 🌱 I’m currently learning Flutter
 - 👯 I’m looking to collaborate with other developers and designers 
 - ⚡ I am also an active listener. 
 - 🌱 I’m currently doing 100 Days Of Code Challenge <a href="https://github.com/shaliniraghav/100daysofcodechallenge" target="blank">100DaysOfCodeChallenge</a>
