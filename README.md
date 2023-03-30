@@ -5,7 +5,7 @@ You can click the Preview link to take a look at your changes.
 --->
 <h1 align="center">Hi 👋, I'm <a href="https://github.com/shaliniraghav" target="blank">
 Shalini</a></h1>
-<h3 align="center">A Passionate Web Developer from Agra,India &#127470;&#127475</h3>
+<h3 align="center">A Passionate Android Developer from Jaipur,India &#127470;&#127475</h3>
 
 
 
@@ -15,14 +15,14 @@ Shalini</a></h1>
   <img align="right" top="200" height="250" width="300" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
-- 🔭 I’m currently Working on Web Development Projects
+- 🔭 I’m currently Working on Android Development Projects
 - 🌱 I’m currently learning JS
 - 👯 I’m looking to collaborate with other developers and designers 
 - ⚡ I am also an active listener. 
 - 🌱 I’m currently doing 100 Days Of Code Challenge <a href="https://github.com/shaliniraghav/100daysofcodechallenge" target="blank">100DaysOfCodeChallenge</a>
 
 
-- 💬 Ask me about **Web Development and Java**
+- 💬 Ask me about **Android Development and Java**
 
 - 📫 How to reach me **shaliniraghav24112002@gmail.com** or **https://www.linkedin.com/in/shalini-raghav/**
 
