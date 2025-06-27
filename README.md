@@ -15,14 +15,14 @@ Shalini</a></h1>
   <img align="right" top="200" height="250" width="300" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
-- 🔭 I’m currently Working on Android Development Projects
-- 🌱 I’m currently learning Flutter
+- 🔭 I’m currently Working on Android Development Projects and Backend Projects
+- 🌱 I’m currently learning Django
 - 👯 I’m looking to collaborate with other developers and designers 
 - ⚡ I am also an active listener. 
 - 🌱 I’m currently doing 100 Days Of Code Challenge <a href="https://github.com/shaliniraghav/100daysofcodechallenge" target="blank">100DaysOfCodeChallenge</a>
 
 
-- 💬 Ask me about **Android Development and Java**
+- 💬 Ask me about **Android Development and Java And Django**
 
 - 📫 How to reach me **shaliniraghav24112002@gmail.com** or **https://www.linkedin.com/in/shalini-raghav/**
 
