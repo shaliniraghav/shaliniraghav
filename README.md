@@ -5,7 +5,7 @@ You can click the Preview link to take a look at your changes.
 --->
 <h1 align="center">Hi 👋, I'm <a href="https://github.com/shaliniraghav" target="blank">
 Shalini Raghav</a></h1>
-<h3 align="center">A Passionate Android Developer from Jaipur,India &#127470;&#127475</h3>
+<h3 align="center">A Passionate Backend Developer from Jaipur,India &#127470;&#127475</h3>
 
 
 
@@ -16,7 +16,7 @@ Shalini Raghav</a></h1>
 </a>
 
 - 🔭 I’m currently Working on Android Development Projects and Backend Projects
-- 🌱 I’m currently learning Django
+- 🌱 I’m currently learning Django And AWS.
 - 👯 I’m looking to collaborate with other developers and designers 
 - ⚡ I am also an active listener. 
 - 🌱 I’m currently doing 100 Days Of Code Challenge <a href="https://github.com/shaliniraghav/100daysofcodechallenge" target="blank">100DaysOfCodeChallenge</a>
