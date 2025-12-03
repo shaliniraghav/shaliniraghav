@@ -24,7 +24,7 @@ Shalini Raghav</a></h1>
 
 - 💬 Ask me about **Android Development and Java And Django**
 
-- 📫 How to reach me **shaliniraghav24112002@gmail.com** or **https://www.linkedin.com/in/shalini-raghav/**
+- 📫 How to reach me **shaliniraghav2411@gmail.com** or **https://www.linkedin.com/in/shalini-raghav/**
 
 - 📄 Know about my experiences <a href="" target="blank">Resume</a>
 <br/>
